@@ -1,7 +1,6 @@
 ## About me 👋
 
 - Name: Ina
-- Occupation: Studying IT at OsloMet University
 
 
 ## Languages & Tools :hammer_and_wrench:
